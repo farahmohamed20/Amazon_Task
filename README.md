@@ -12,7 +12,7 @@ This project contains automated test scenarios for shopping on Amazon.
 4. Add the selected item to the cart.
 5. Go to the cart and verify that the item is successfully added.
 
-### Scenario 2: Filter Today's Deals for Headphones and Grocery
+### Scenario 2: Filter Today's Deals for MobilePhones and Grocery
 
 1. Open the Today's Deals section on the Amazon website.
 2. From the left-side filters, select "Headphones" and "Grocery".
